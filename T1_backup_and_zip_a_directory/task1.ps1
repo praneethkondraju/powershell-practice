@@ -8,7 +8,6 @@ Defining LogPath and LogFile
 Checking whether folder and file exists. Else create it.
 #>
 $logPath = 'PATH\TO\DIRECTORY'
-#$logPath = 'C:\Users\Praneeth Kondraju\Documents\Projects\powershell\T1_backup_and_zip_a_directory'
 $logFile = "$LogPath\task1.log"
 try {
     if (-not(Test-Path -Path $logPath -ErrorAction Stop )) {
@@ -26,7 +25,6 @@ Compress the directory
 filename should end with timestamp
 #>
 $destinationPath = 'BACKUP\DIRECTORY\PATH'
-#$destinationPath = 'C:\Users\Praneeth Kondraju\Documents\Projects\powershell\T1_backup_and_zip_a_directory\backup'
 try {
     #Check Backup directory availability
     if (-not(Test-Path -Path $destinationPath)) {
