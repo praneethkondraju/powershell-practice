@@ -45,7 +45,7 @@ This PowerShell script automates the process of backing up a specified directory
 .\task1_chatgpt.ps1 -path "C:\Projects\MyApp" 
 ```
 
-📓 Sample Log Output
+## 📓 Sample Log Output
 ```
 16-04-2025 09:34:11 - [INFO] Creating Backup Directory
 16-04-2025 09:34:11 - [INFO] Backup Directory Created Successfully
@@ -53,14 +53,18 @@ This PowerShell script automates the process of backing up a specified directory
 16-04-2025 09:34:16 - [INFO] Compression Completed Successfully
 ```
 
-🧠 What You Learn from This Task
+## 🧠 What You Learn from This Task
 ✅ Accepting input parameters in PowerShell
+
 ✅ Creating and verifying directories/files
+
 ✅ Using timestamps for naming backups
+
 ✅ Writing logs with structured info and error handling
+
 ✅ Using Compress-Archive for zipping directories
 
-🤖 About
+## 🤖 About
 This task was part of a PowerShell scripting learning roadmap focused on:
 
 - Automation
@@ -71,12 +75,12 @@ This task was part of a PowerShell scripting learning roadmap focused on:
 
 - SRE Mindset & Best Practices
 
-👥 Credits
+## 👥 Credits
 
 - ✍️ Script: Praneeth Kondraju
 
 - 🤖 AI-Powered Review & Enhancements: ChatGPT
 
-🔐 License
+## ⚖️ License
 
 This project is licensed under the MIT License.
