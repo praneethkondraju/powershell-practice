@@ -1,0 +1,5 @@
+17-04-2025 21:53:53 - [ERROR] WMPNetworkSvc is not running.
+17-04-2025 21:53:53 - [INFO] Peforming restart of WMPNetworkSvc.
+17-04-2025 21:53:53 - [INFO] Attempted restart of WMPNetworkSvc.
+17-04-2025 21:53:53 - [INFO] Checking status of WMPNetworkSvc.
+17-04-2025 21:53:53 - [INFO] Restart is successful and WMPNetworkSvc is running.
