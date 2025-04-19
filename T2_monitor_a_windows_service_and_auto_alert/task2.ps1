@@ -19,7 +19,7 @@ try {
 }
 catch {
     $errorMsg = $_.Exception.Message
-    Add-Content -Path $logFile -Value "$(Get-Date -Format 'dd/MM/yyyy HH:mm:ss') - [ERROR] Script failed: $errorMsg"
+    Write-Output $errorMsg
     throw
 }
 
@@ -52,7 +52,7 @@ try {
         if ($(Get-Service -Name $serviceName).Status -ne 'Running') {
             $smtpConfig = Get-Content -Path "path\to\your\settings.json" | ConvertFrom-Json
             $sendEmailSplat = @{
-                From = 'noreply@sendingrestartfailurenotification.com'
+                From = $smtpConfig.EmailSettings.Host.From
                 To = 'recepient@emailprovider.com'
                 Subject = "$serviceName restart failed"
                 Body = "$serviceName restart did not help the bringing up. Please act on the issue."
