@@ -1,0 +1,9 @@
+{
+    "EmailSettings": {
+        "From": "[email protected]",
+        "Username": "username",
+        "Password": "password",
+        "Host": "smtp.example.com",
+        "Port": 25
+    }
+}

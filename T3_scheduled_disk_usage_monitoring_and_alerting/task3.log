@@ -1,0 +1,16 @@
+19-04-2025 10:46:37 - [INFO] Calculating Disk Usage for C.
+19-04-2025 10:46:43 - [INFO] Used % in C : 32.88
+19-04-2025 10:46:43 - [INFO] Free % in C : 67.12
+19-04-2025 10:46:43 - [ERROR] Used Space (%) in C : 32.88 % is above or equal to 30 %.
+19-04-2025 10:46:43 - [INFO] Getting top 5 folders and files consuming the space.
+19-04-2025 10:46:43 - [INFO] Inside Get-TopSpaceConsumers function
+19-04-2025 10:46:43 - [INFO] Getting files and folders
+19-04-2025 10:47:36 - [INFO] Calculating size of each item.
+19-04-2025 12:28:35 - [INFO] Separation of files and folders.
+19-04-2025 12:29:05 - [INFO] Preparing Output.
+19-04-2025 12:29:05 - [INFO] Saving Output to a text file.
+19-04-2025 12:29:05 - [INFO] Saved Output to a text file.
+19-04-2025 12:29:05 - [INFO] Exiting Get-TopSpaceConsumers function.
+19-04-2025 12:29:05 - [INFO] Inside Send-Email function.
+19-04-2025 12:29:05 - [ERROR] Script failed in Send-Email function: Cannot bind argument to parameter 'String' because it is null.
+19-04-2025 12:29:05 - [ERROR] Script failed: Cannot bind argument to parameter 'String' because it is null.

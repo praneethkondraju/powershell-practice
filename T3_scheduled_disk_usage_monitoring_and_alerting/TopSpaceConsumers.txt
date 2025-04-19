@@ -1,0 +1,15 @@
+Top 5 Files:
+
+C:\Users\USER\Videos\Video\01.mpg 7.04 GB
+C:\hiberfil.sys                                    6.08 GB
+C:\Users\USER\AppData\Local\Docker\wsl\disk\docker_data.vhdx 4.94 GB
+C:\Users\USER\Videos\Video\02.mpg 4.29 GB
+C:\Users\USER\Videos\Movies\Movie.mp4 3.21 GB
+
+Top 5 Folders:
+
+C:\Users                                           61.29 GB
+C:\Users\USER                         61.28 GB
+C:\Users\USER\AppData                 36.67 GB
+C:\Users\USER\AppData\Local           35.64 GB
+C:\Windows                                         33.99 GB
