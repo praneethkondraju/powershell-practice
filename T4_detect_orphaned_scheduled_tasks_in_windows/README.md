@@ -62,7 +62,7 @@ Sample JSON file for email configuration:
 
 - ✍️ Script: Praneeth Kondraju
 
-- 🤖 AI-Powered Review & Enhancements: ChatGPT
+- 🤖 AI-Powered Review: ChatGPT
 
 ## ⚖️ License
 This project is licensed under the MIT License
