@@ -1,0 +1,4 @@
+29-04-2025 10:27:02 - [INFO] Inside Get-Orphaned-Tasks
+29-04-2025 10:27:02 - [INFO] Excluded Task Paths: \Microsoft
+29-04-2025 10:27:03 - [INFO] Orphaned Tasks are available
+29-04-2025 10:27:03 - [ERROR] Exception caught in Get-Orphaned-Task function: Cannot bind argument to parameter 'String' because it is null.

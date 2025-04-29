@@ -1,0 +1,13 @@
+TaskPath of Orphaned Tasks
+
+TaskName ----------> TaskPath
+BraveSoftwareUpdateTaskUserS-1-5-21-411777067-3121242974-3751187218-1002Core{91BA93E9-245D-4A9A-96D2-2805A2D245BB} ---------> "C:\Users\USERNAME\AppData\Local\BraveSoftware\Update\BraveUpdate.exe"
+BraveSoftwareUpdateTaskUserS-1-5-21-411777067-3121242974-3751187218-1002UA{F1CA0350-17B5-4DD3-BC7A-34D17CE39DD0} ---------> "C:\Users\USERNAME\AppData\Local\BraveSoftware\Update\BraveUpdate.exe"
+RtkAudUService64_BG ---------> ""C:\WINDOWS\System32\DriverStore\FileRepository\realtekservice.inf_amd64_b751f9ef4da58448\RtkAudUService64.exe""
+ZoomUpdateTaskUser-S-1-5-21-411777067-3121242974-3751187218-1002 ---------> "C:\Users\USERNAME\AppData\Roaming\Zoom\bin\Zoom.exe"
+McAfee Windows Notification Token ---------> "\\?\C:\Program Files\McAfee\wps\1.28.191.1\mc-wns-client\mc-wns-client.exe"
+MareBackup ---------> %windir%\system32\compattelrunner.exe %windir%\system32\compattelrunner.exe %windir%\system32\compattelrunner.exe
+UninstallDeviceTask ---------> BthUdTask.exe
+Notifications ---------> %windir%\System32\LocationNotificationWindows.exe
+UPnPHostConfig ---------> sc.exe
+UpdateLibrary ---------> "%ProgramFiles%\Windows Media Player\wmpnscfg.exe"
